@@ -64,5 +64,6 @@ I prioritize measurable pipeline stability and mathematical grounding over raw p
 * 👔 **LinkedIn:** [Your Profile](https://linkedin.com/in/laalini-bhogadi)
 * 📦 **Hugging Face:** will be added
 * 📙 **My Books:**
-* [Build Your Own Optimised AI Agents Using CrewAI & LangChain][(https://your-book-link.com)](https://www.amazon.in/Build-your-Optimized-Agents-LangChain-ebook/dp/B0D783XR2X)
+* [Build Your Own Optimised AI Agents Using CrewAI & LangChain]
+  (https://www.amazon.in/Build-your-Optimized-Agents-LangChain-ebook/dp/B0D783XR2X)
 * [The Enterprise LLM Blueprint: A Complete Technical Guide to Architecting, Deploying, and Scaling Large Language Models in the Enterprise](https://www.amazon.in/Enterprise-LLM-Blueprint-Technical-Architecting-ebook/dp/B0H668BYTJ)
