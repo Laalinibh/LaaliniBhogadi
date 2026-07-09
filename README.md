@@ -23,14 +23,14 @@ I engineer efficient ML training pipelines and simulation environments, bridging
 ---
 
 ### 🤖 Multi-Agent Systems & Orchestration
-* **[Agentic-Core Framework]([https://github.com/anvyon1/Anvyonagentic])**
+* **[Agentic-Core Framework][(https://github.com/anvyon1/Anvyonagentic)]**
   * *Focus:* Deterministic Orchestration, Intent-Driven Routing, Evaluation-as-A-Judge.
   * The open-source architecture implementing the validation-first agentic loops detailed in my book, *"Build Your Own Optimised AI Agents Using CrewAI & LangChain"*. Enforces strict schema-grounding and state machines to eliminate production failure modes.
 
 ---
 
 ### 🕹️ Reinforcement Learning & Simulation
-* **[rlenv]([https://github.com/Laalinibh/rlenv])** 
+* **[rlenv][(https://github.com/Laalinibh/rlenv)]** 
   * *Focus:* Operations Research, Custom RL Environments, High-Throughput Step Pipelines.
   * An optimized reinforcement learning environment focusing on robust state-space engineering, operations research methodologies, and clean gym-style API interfaces to solve complex sequential decision-making problems.
 
