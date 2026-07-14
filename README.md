@@ -12,7 +12,7 @@ I engineer efficient ML training pipelines and simulation environments, bridging
   * *Focus:* Model Pretraining, Compute Efficiency, Transformer Scaling Constraints.
   * Highly optimized submission incorporating advanced architectural techniques to maximize training efficiency and model convergence under tight compute constraints.
 
-* **[Protogrok Telecom SLM] (https://github.com/Laalinibh/protogrok-jax)
+* **[Protogrok Telecom SLM] (https://github.com/Laalinibh/protogrok-jax)**
 * hugging face end point : https://zc8qc61mazurv4h8.eu-west-1.aws.endpoints.huggingface.cloud 
   * *Focus:* Domain-Specific Pretraining, Custom Tokenization, PyTorch.
   * A 300M parameter Small Language Model pretrained from scratch to parse raw, low-level network protocol data at the packet layer. Implements a custom structural tokenizer to drive a 20% improvement in network efficiency via real-time predictive optimization.
